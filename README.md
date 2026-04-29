@@ -107,31 +107,37 @@ This project is an end-to-end data analysis solution designed to extract critica
 ```
 ---
 
-## Results and Insights
+## 📊 Results and Insights
 
 This section will include your analysis findings:
 - **Sales Insights**: Key categories, branches with highest sales, and preferred payment methods.
 - **Profitability**: Insights into the most profitable product categories and locations.
 - **Customer Behavior**: Trends in ratings, payment preferences, and peak shopping hours.
 
-## Future Enhancements
+## 🚀 Future Enhancements
 
-Possible extensions to this project:
-- Integration with a dashboard tool (e.g., Power BI or Tableau) for interactive visualization.
-- Additional data sources to enhance analysis depth.
-- Automation of the data pipeline for real-time data ingestion and analysis.
-
----
-
-## License
-
-This project is licensed under the MIT License. 
+- [ ] Power BI / Tableau dashboard integration
+- [ ] Real-time data pipeline automation
+- [ ] Additional data sources for deeper analysis
 
 ---
 
-## Acknowledgments
+## 🙏 Acknowledgments
 
-- **Data Source**: Kaggle’s Walmart Sales Dataset
-- **Inspiration**: Walmart’s business case studies on sales and supply chain optimization.
+- **Dataset**: [Kaggle — Walmart Sales Dataset](https://www.kaggle.com/najir0123/walmart-10k-sales-datasets)
+- **Inspiration**: Walmart business case studies on sales optimization
 
----# Walmart_Sales_Analysis
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 👩‍💻 Author
+
+**Janhvi Mishra**  
+📧 j.mishraa22@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/janhvi-mishra/)  
+💻 [GitHub](https://github.com/janhvi-mishra)
