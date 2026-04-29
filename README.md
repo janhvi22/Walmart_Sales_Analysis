@@ -5,8 +5,7 @@ from Walmart sales data using Python and MySQL.
 
 ## 📌 Project Overview
 
-![Project Pipeline]("C:\Users\Janhvi Mishra\Downloads\walmart_sales.jpg")
-
+<img width="600" height="401" alt="Image" src="https://github.com/user-attachments/assets/bf038274-c845-4314-8f32-ff0544d7e1c5" />
 
 This project is an end-to-end data analysis solution designed to extract critical business insights from Walmart sales data. We utilize Python for data processing and analysis, SQL for advanced querying, and structured problem-solving techniques to solve key business questions. The project is ideal for data analysts looking to develop skills in data manipulation, SQL querying, and data pipeline creation.
 
