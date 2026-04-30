@@ -62,7 +62,7 @@ This project is an end-to-end data analysis solution designed to extract critica
 
         
      - Identifying best-selling product categories.
-'''sq
+```sql
 SELECT *
 FROM
 (SELECT
@@ -74,7 +74,7 @@ FROM walmart
 GROUP BY branch, category
 ) AS ranked_table
 WHERE rnk = 1;
-'''
+```
      - Sales performance by time, city, and payment method.
      - Analyzing peak sales periods and customer buying patterns.
      - Profit margin analysis by branch and category.
